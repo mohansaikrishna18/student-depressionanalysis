@@ -1,0 +1,70 @@
+id,names,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfaction,Job Satisfaction,Sleep Duration,Dietary Habits,Degree,Have you ever had suicidal thoughts ?,Work/Study Hours,Financial Stress,Family History of Mental Illness,Depression
+2,nani ,Male,33,Visakhapatnam,Student,5,0,8.97,2,0,'5-6 hours',Healthy,B.Pharm,Yes,3,1,No,1
+8,chinni,Female,24,Bangalore,Student,2,0,5.9,5,0,'5-6 hours',Moderate,BSc,No,3,2,Yes,0
+26,venky,Male,31,Srinagar,Student,3,0,7.03,5,0,'Less than 5 hours',Healthy,BA,No,9,1,Yes,0
+30,srujana,Female,28,Varanasi,Student,3,0,5.59,2,0,'7-8 hours',Moderate,BCA,Yes,4,5,Yes,1
+32,chandana,Female,25,Jaipur,Student,4,0,8.13,3,0,'5-6 hours',Moderate,M.Tech,Yes,1,1,No,0
+33,narasimha,Male,29,Pune,Student,2,0,5.7,3,0,'Less than 5 hours',Healthy,PhD,No,4,1,No,0
+52,mohan,Male,30,Thane,Student,3,0,9.54,4,0,'7-8 hours',Healthy,BSc,No,1,2,No,0
+56,rama,Female,30,Chennai,Student,2,0,8.04,4,0,'Less than 5 hours',Unhealthy,'Class 12',No,0,1,Yes,0
+59,akhil,Male,28,Nagpur,Student,3,0,9.79,1,0,'7-8 hours',Moderate,B.Ed,Yes,12,3,No,1
+62,nani ,Male,31,Nashik,Student,2,0,8.38,3,0,'Less than 5 hours',Moderate,LLB,Yes,2,5,No,1
+83,chinni,Female,24,Nagpur,Student,3,0,6.1,3,0,'5-6 hours',Moderate,'Class 12',Yes,11,1,Yes,1
+91,venky,Male,33,Vadodara,Student,3,0,7.03,4,0,'Less than 5 hours',Healthy,BE,Yes,10,2,Yes,0
+94,srujana,Female,27,Kalyan,Student,5,0,7.04,1,0,'Less than 5 hours',Moderate,M.Tech,No,10,1,Yes,1
+100,chandana,Female,19,Rajkot,Student,2,0,8.52,4,0,'Less than 5 hours',Unhealthy,'Class 12',No,6,2,Yes,0
+103,narasimha,Male,19,Kalyan,Student,5,0,5.64,5,0,'Less than 5 hours',Moderate,'Class 12',Yes,4,5,Yes,1
+106,mohan,Male,29,Srinagar,Student,3,0,8.58,3,0,'More than 8 hours',Moderate,M.Tech,Yes,10,2,Yes,1
+120,rama,Female,25,Nashik,Student,5,0,6.51,2,0,'Less than 5 hours',Unhealthy,M.Ed,Yes,2,5,Yes,1
+132,akhil,Male,20,Ahmedabad,Student,5,0,7.25,3,0,'5-6 hours',Healthy,'Class 12',Yes,10,3,No,1
+139,nani ,Male,19,Chennai,Student,2,0,7.83,2,0,'7-8 hours',Unhealthy,'Class 12',No,6,3,No,0
+145,chinni,Female,25,Kalyan,Student,3,0,9.93,3,0,'5-6 hours',Moderate,B.Ed,No,8,3,Yes,1
+161,venky,Male,29,Kolkata,Student,3,0,8.74,4,0,'5-6 hours',Moderate,B.Ed,Yes,1,1,No,0
+162,srujana,Female,29,Kolkata,Student,3,0,6.73,3,0,'7-8 hours',Moderate,M.Tech,No,0,1,No,0
+166,chandana,Female,25,Ahmedabad,Student,3,0,5.57,3,0,'More than 8 hours',Unhealthy,MSc,Yes,10,5,No,1
+172,narasimha,Male,23,Thane,Student,1,0,8.59,4,0,'7-8 hours',Healthy,BHM,No,11,3,No,0
+173,mohan,Male,18,Bangalore,Student,4,0,7.1,3,0,'More than 8 hours',Unhealthy,'Class 12',Yes,11,5,Yes,1
+176,rama,Female,20,Mumbai,Student,5,0,8.58,5,0,'7-8 hours',Moderate,'Class 12',No,2,2,Yes,1
+186,akhil,Male,31,Ahmedabad,Student,2,0,6.08,5,0,'7-8 hours',Moderate,LLB,Yes,3,3,Yes,1
+193,nani ,Male,25,Lucknow,Student,3,0,7.25,3,0,'More than 8 hours',Unhealthy,M.Ed,Yes,10,5,No,1
+208,chinni,Female,33,Indore,Student,5,0,5.74,2,0,'Less than 5 hours',Moderate,M.Pharm,No,8,3,Yes,0
+214,venky,Male,28,Kalyan,Student,3,0,9.86,3,0,'7-8 hours',Unhealthy,M.Pharm,Yes,11,2,No,1
+222,srujana,Female,18,Surat,Student,4,0,6.7,5,0,'Less than 5 hours',Moderate,'Class 12',Yes,5,4,Yes,1
+232,chandana,Female,18,Visakhapatnam,Student,2,0,6.21,3,0,'5-6 hours',Unhealthy,'Class 12',Yes,4,2,No,1
+239,narasimha,Male,21,Jaipur,Student,1,0,7.25,1,0,'Less than 5 hours',Healthy,MCA,Yes,7,2,No,0
+240,mohan,Male,31,Kalyan,Student,1,0,5.87,3,0,'7-8 hours',Healthy,PhD,No,8,4,Yes,0
+242,rama,Female,21,Surat,Student,1,0,8.04,3,0,'More than 8 hours',Healthy,MA,No,0,3,Yes,0
+253,akhil,Male,25,Ludhiana,Student,1,0,6.37,3,0,'7-8 hours',Moderate,B.Pharm,Yes,2,2,No,0
+255,nani ,Male,21,Bhopal,Student,5,0,9.72,2,0,'5-6 hours',Moderate,B.Com,Yes,0,4,Yes,1
+263,chinni,Female,28,Srinagar,Student,5,0,5.88,3,0,'7-8 hours',Unhealthy,BCA,Yes,9,1,Yes,0
+270,venky,Male,28,Thane,Student,1,0,9.56,2,0,'7-8 hours',Unhealthy,MD,No,6,3,No,0
+273,srujana,Female,25,Meerut,Student,3,0,6.51,4,0,'7-8 hours',Unhealthy,B.Pharm,Yes,3,4,No,1
+274,chandana,Female,20,Thane,Student,3,0,6.99,2,0,'7-8 hours',Moderate,'Class 12',Yes,11,5,Yes,1
+277,narasimha,Male,23,Agra,Student,2,0,6.1,4,0,'5-6 hours',Unhealthy,MSc,Yes,10,1,Yes,0
+280,mohan,Male,19,Agra,Student,1,0,5.24,3,0,'5-6 hours',Healthy,'Class 12',Yes,2,1,No,0
+285,rama,Female,33,Ghaziabad,Student,4,0,9.21,1,0,'Less than 5 hours',Unhealthy,MBA,Yes,10,5,Yes,1
+294,akhil,Male,23,Chennai,Student,1,0,7.85,4,0,'More than 8 hours',Unhealthy,BE,No,12,5,No,0
+301,nani ,Male,22,Lucknow,Student,1,0,9.93,1,0,'7-8 hours',Unhealthy,B.Ed,No,10,1,No,0
+303,chinni,Female,19,Meerut,Student,2,0,6.95,2,0,'Less than 5 hours',Healthy,'Class 12',Yes,2,3,Yes,0
+305,venky,Male,30,Hyderabad,Student,1,0,5.86,3,0,'Less than 5 hours',Healthy,BSc,No,1,4,Yes,0
+310,srujana,Female,21,Kalyan,Student,3,0,7.04,3,0,'Less than 5 hours',Unhealthy,MSc,No,1,5,Yes,0
+312,chandana,Female,19,Rajkot,Student,5,0,6.99,5,0,'More than 8 hours',Healthy,'Class 12',Yes,0,4,Yes,1
+315,narasimha,Male,23,Kalyan,Student,3,0,7.92,3,0,'Less than 5 hours',Moderate,B.Com,No,10,4,Yes,0
+316,mohan,Male,23,Vasai-Virar,Student,5,0,9.66,1,0,'7-8 hours',Healthy,BHM,Yes,12,5,Yes,1
+324,rama,Female,18,Vadodara,Student,3,0,5.7,5,0,'5-6 hours',Unhealthy,'Class 12',Yes,11,4,No,1
+328,akhil,Male,28,Srinagar,Student,4,0,8.94,1,0,'7-8 hours',Unhealthy,M.Pharm,Yes,12,1,Yes,1
+335,nani ,Male,24,Hyderabad,Student,2,0,8.04,3,0,'5-6 hours',Unhealthy,M.Tech,No,8,1,No,0
+336,chinni,Female,33,Srinagar,Student,1,0,9.71,1,0,'More than 8 hours',Healthy,B.Com,Yes,5,2,No,0
+337,venky,Male,20,Kalyan,Student,3,0,8.04,2,0,'5-6 hours',Moderate,'Class 12',Yes,7,3,No,1
+340,srujana,Female,23,Kalyan,Student,5,0,7.87,1,0,'7-8 hours',Moderate,BSc,Yes,11,4,Yes,1
+343,chandana,Female,23,Pune,Student,5,0,5.74,1,0,'5-6 hours',Healthy,BA,Yes,11,4,Yes,1
+347,narasimha,Male,24,Ludhiana,Student,3,0,5.6,1,0,'Less than 5 hours',Healthy,MBBS,Yes,9,2,No,1
+348,mohan,Male,25,Jaipur,Student,5,0,9.21,1,0,'5-6 hours',Unhealthy,BSc,No,7,3,Yes,0
+351,rama,Female,24,Bhopal,Student,4,0,7.9,3,0,'5-6 hours',Moderate,MBBS,Yes,3,5,No,1
+367,akhil,Male,24,Kolkata,Student,3,0,5.46,4,0,'7-8 hours',Moderate,BSc,Yes,10,5,No,1
+370,nani ,Male,31,Nashik,Student,1,0,6.79,5,0,'More than 8 hours',Unhealthy,MCA,Yes,0,3,Yes,0
+381,chinni,Female,20,Thane,Student,5,0,8.7,4,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,4,5,Yes,1
+385,venky,Male,21,Ludhiana,Student,2,0,7.38,5,0,'Less than 5 hours',Healthy,MA,Yes,2,5,No,1
+392,srujana,Female,25,Kanpur,Student,1,0,8.5,3,0,'7-8 hours',Moderate,BA,Yes,11,4,Yes,0
+398,chandana,Female,19,Mumbai,Student,2,0,7.09,4,0,'7-8 hours',Healthy,'Class 12',No,11,1,Yes,0
+407,narasimha,Male,34,Surat,Student,3,0,9.82,3,0,'More than 8 hours',Healthy,MSc,Yes,12,5,No,0
